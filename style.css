@@ -4,4 +4,5 @@ body{
 ul{
     display: inline;
     background-color: aqua;
+    text-decoration: dashed;
 }
