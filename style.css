@@ -1,3 +1,7 @@
 body{
     background-color: wheat;
 }
+ul{
+    display: inline;
+    background-color: aqua;
+}
